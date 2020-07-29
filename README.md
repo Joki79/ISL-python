@@ -1,4 +1,4 @@
-# ISL-python
+# ISL-python SOLUTIONS TO LABS AND EXERCISES
 
 [*An Introduction to Statistical Learning*](http://www-bcf.usc.edu/~gareth/ISL/) is a textbook by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani. Conceptual and applied exercises are provided at the end of each chapter covering supervised learning.
 
